@@ -52,5 +52,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+  +
+  +
 We want to accelerate transitions towards achieving the SDGs using data and new technologies. Our goal is to improve and transform people's lives by changing the way we invest in sustainable development. Research and Innovation are at the core of DataLab.
