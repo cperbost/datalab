@@ -10,32 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: AFD Group
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: AFD Group
+  url: "https://www.afd.fr/fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,6 +54,3 @@ user_groups:
 ---
 
 We want to accelerate transitions towards achieving the SDGs using data and new technologies. Our goal is to improve and transform people's lives by changing the way we invest in sustainable development. Research and Innovation are at the core of DataLab.
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
