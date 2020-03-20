@@ -1,6 +1,6 @@
 ---
 # Display name
-name: DataLab
+name:
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: AFD Group
-  url: "https://www.afd.fr/fr"
+- name:
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
