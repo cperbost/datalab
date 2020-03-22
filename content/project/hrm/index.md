@@ -5,7 +5,7 @@ draft: false
 tags:
 - Data Innovation
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Screenshot of the web application
   focal_point: Smart
 ---
 We developed an web application to enable Operations to visualize and drive insights from population density, conflicts and crisis data, facilities locations and other demographic data.
