@@ -3,7 +3,7 @@ title: Data for Development
 event: Paris Peace Forum
 event_url: https://parispeaceforum.org/
 
-location: Source Themes HQ
+location: Grande Halle de la Vilette
 address:
   street: 211 Jean Jaures
   city: Paris
@@ -23,12 +23,12 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: [AI]
+tags: [AI, Data Innovation]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Paris Peace Forum logo'
+  caption: ''
   focal_point: Right
 ---
