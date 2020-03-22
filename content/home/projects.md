@@ -27,15 +27,15 @@ subtitle = ""
   
   [[content.filter_button]]
   name = "Blockchain"
-  tag = "hrm"
+  tag = "Blockchain"
   
   [[content.filter_button]]
   name = "AI"
-  tag = "Demo"
+  tag = "AI"
   
   [[content.filter_button]]
   name = "Data Innovation"
-  tag = "Demo"
+  tag = "Data Innovation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
