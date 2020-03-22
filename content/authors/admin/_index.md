@@ -41,6 +41,6 @@ user_groups:
 - Visitors
 ---
   
-We are the Tech R&D department of AFD (French Development Agency), a public financial institution that works to fight poverty and promote sustainable development.  
+We are the Tech R&D department of [AFD](https://www.afd.fr/en) (French Development Agency), a public financial institution that works to fight poverty and promote sustainable development.  
 
 We want to accelerate transitions towards achieving the SDGs using data and new technologies. Our goal is to improve and transform people's lives by changing the way we invest in sustainable development. Research and Innovation are at the core of DataLab.
