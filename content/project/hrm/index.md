@@ -8,5 +8,6 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
-{{< figure library="true" src="hrm.png" title="A caption" lightbox="true" >}}
-hello to you all this is a test
+We developed an web application to enable Operations to visualize and drive insights from population density, conflicts and crisis data, facilities locations and other demographic data.
+This work was based on the open-source tool Kepler.gl, a layer of Mapbox developed by Uber.
+The different datasets used are available on [Humanitarian Data Exchange](https://data.humdata.org/)
