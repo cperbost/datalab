@@ -2,8 +2,6 @@
 title: 'Senior Data Analyst'
 subtitle: ''
 summary: Full-time position
-authors:
-- admin
 tags:
 - Data Innovation
 - AI
