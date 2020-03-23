@@ -11,7 +11,7 @@ address:
   postcode: '75019'
   country: France
 
-summary: "AI Research in developing countries" by Peter Addo
+summary: "AI Research in developing countries by Peter Addo"
 abstract: "Lorem ipsumo dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
