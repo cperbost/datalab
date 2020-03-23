@@ -12,6 +12,11 @@
   name = "Projects"
   url = "#projects"
   weight = 20
+  
+ [[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 25
 
 [[main]]
   name = "Partnerships"
