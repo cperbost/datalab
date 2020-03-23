@@ -36,6 +36,10 @@ subtitle = ""
   [[content.filter_button]]
   name = "Data Innovation"
   tag = "Data Innovation"
+  
+  [[content.filter_button]]
+  name = "Publications"
+  tag = "Publications"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
