@@ -1,5 +1,5 @@
 ---
-title: Paris Peace Forum
+title: "Paris Peace Forum"
 event: Paris Peace Forum
 event_url: https://parispeaceforum.org/
 
