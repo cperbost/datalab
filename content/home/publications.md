@@ -8,7 +8,7 @@ active = true # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Partnerships"
-subtitle = Potential Partner, [get in touch](#contact) with us ! 
+subtitle = "Potential Partner, [get in touch](#contact) with us !"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
