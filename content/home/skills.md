@@ -18,7 +18,8 @@ subtitle = ""
   icon = "search"
   icon_pack = "fas"
   name = "Foresight"
-  description = "Predict and study the potential of emerging and frontier technologies"
+  description = "Predict and study the potential of emerging  
+  and frontier technologies"
   
 [[feature]]
   icon = "flask"
