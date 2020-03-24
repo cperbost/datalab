@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Focus technology"
+title = "Our activities"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "database"
+  icon = "search"
   icon_pack = "fas"
-  name = "Data Innovation"
-  description = ""
+  name = "Foresight"
+  description = "Predict and study the potential of emerging and frontier technologies"
   
 [[feature]]
-  icon = "robot"
+  icon = "flask"
   icon_pack = "fas"
-  name = "Artificial Intelligence"
+  name = "Experimentation"
   description = ""  
   
 [[feature]]
-  icon = "bitcoin"
-  icon_pack = "fab"
-  name = "Blockchain"
+  icon = "hands-helping"
+  icon_pack = "fas"
+  name = "Collaboration"
   description = ""
 
 +++
