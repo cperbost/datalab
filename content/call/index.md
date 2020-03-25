@@ -17,4 +17,5 @@ This ambition is manifold:
 
 And we need you to make this ambition a reality.  
 Contact us, describe your project, whatever your idea, whatever your needs, we will make sure to get the best out of it.  
-And together we will innovate. 
+
+And together, we will innovate. 
