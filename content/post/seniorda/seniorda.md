@@ -1,5 +1,5 @@
 ---
-title: 'Tech policy Analyst'
+title: 'Tech Policy Analyst'
 subtitle: ''
 summary: Full-time position
 tags:
