@@ -1,8 +1,9 @@
 ---
-title: 'Tech Policy Analyst'
+title: 'Full-time positions'
 subtitle: ''
-summary: Full-time position
+summary: Join forces with us on impactful projects
 tags:
+- Blockchain
 - Data Innovation
 - AI
 date: "2012-03-20"
