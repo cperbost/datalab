@@ -1,5 +1,5 @@
 ---
-title: 'Senior Data Analyst'
+title: 'Tech policy Analyst'
 subtitle: ''
 summary: Full-time position
 tags:
