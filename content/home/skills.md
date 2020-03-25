@@ -30,6 +30,6 @@ subtitle = ""
   icon = "hands-helping"
   icon_pack = "fas"
   name = "Collaboration"
-  description = "Create synergies between tech actors : organizations, students, researchers, ..."
+  description = "Create synergies between tech actors : organizations, students and researchers"
 
 +++
