@@ -24,7 +24,7 @@ subtitle = ""
   icon = "flask"
   icon_pack = "fas"
   name = "Experimentation"
-  description = "Invest and conduct Research in innovation"  
+  description = "Invest and conduct Research and Innovation"  
   
 [[feature]]
   icon = "hands-helping"
