@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 110  # Order that this section will appear.
 
 title = "Join Us"
-subtitle = ""
+subtitle = "We have many opportunities for you in Data Science, software Engineering, Policy Analysis, ..."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
