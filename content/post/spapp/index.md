@@ -1,7 +1,7 @@
 ---
-title: 'Spontaneous application'
+title: 'PhD or PostDoc'
 subtitle: ''
-summary: PhD, Internship or Full-time
+summary: Get funding and work in our great research environment
 tags:
 - Data Innovation
 - AI
