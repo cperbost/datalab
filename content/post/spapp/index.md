@@ -1,5 +1,5 @@
 ---
-title: 'PhD or PostDoc'
+title: 'PhDs or PostDocs'
 subtitle: ''
 summary: Get funding and work in our great research environment
 tags:
