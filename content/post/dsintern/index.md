@@ -1,5 +1,5 @@
 ---
-title: 'Internships'
+title: 'Internship'
 subtitle: ''
 summary: Gain a professional experience in our Paris offices
 tags:
