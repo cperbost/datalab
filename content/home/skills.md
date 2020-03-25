@@ -18,19 +18,18 @@ subtitle = ""
   icon = "search"
   icon_pack = "fas"
   name = "Foresight"
-  description = Predict and study the potential of emerging  
-  and frontier technologies
+  description = "Predict and study the potential of emerging and frontier technologies"
   
 [[feature]]
   icon = "flask"
   icon_pack = "fas"
   name = "Experimentation"
-  description = ""  
+  description = "Invest and conduct Research in innovation"  
   
 [[feature]]
   icon = "hands-helping"
   icon_pack = "fas"
   name = "Collaboration"
-  description = ""
+  description = "Create synergies between tech actors : organizations, students, researchers, ... We are only waiting for you !"
 
 +++
