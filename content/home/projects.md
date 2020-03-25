@@ -10,7 +10,7 @@ subtitle = "You want to propose an idea ?   [Get in touch](#contact) with us !"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "projectsss"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
