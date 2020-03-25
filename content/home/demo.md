@@ -51,4 +51,4 @@ subtitle = ""
 +++
 
 A place of Innovation and Collaboration  
-for the Common good
+For the Common good
