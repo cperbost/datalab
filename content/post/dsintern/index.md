@@ -1,7 +1,7 @@
 ---
-title: 'Data Scientist'
+title: 'Internships'
 subtitle: ''
-summary: 6-months Internship
+summary: Gain a professional experience in our Paris offices
 tags:
 - Data Innovation
 - AI
