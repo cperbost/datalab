@@ -20,4 +20,4 @@ Contact us, describe your project, whatever your idea, whatever your needs, we w
 
 And together, we will innovate. 
 
-[![Contact us](innovation.jpg)]()
+[![Contact us](button.png)]()
