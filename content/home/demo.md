@@ -49,8 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-  
-\newline
-\newline
+   
+        
+        
 A place of Innovation and Collaboration  
 For the Common good
