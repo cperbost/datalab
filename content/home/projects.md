@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Initiatives"
-subtitle = "You want to propose an idea of a project ? [Get in touch](#contact) with us !"
+subtitle = "You want to propose an idea ? [Get in touch](#contact) with us !"
 
 [content]
   # Page type to display. E.g. project.
