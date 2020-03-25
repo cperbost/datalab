@@ -1,7 +1,7 @@
 ---
 title: 'Online volunteering'
 subtitle: ''
-summary: Work on exciting project from your home and be mentored by a tech expert
+summary: Work on exciting projects from your home and be mentored by a tech expert
 tags:
 - Data Innovation
 - AI
