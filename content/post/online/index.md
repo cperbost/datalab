@@ -2,11 +2,6 @@
 title: 'Online volunteering'
 subtitle: ''
 summary: Work on exciting projects from your home and be mentored by a tech expert
-tags:
-- Data Innovation
-- AI
-date: "2012-03-20"
-lastmod: ""
 featured: false
 draft: false
 
@@ -19,13 +14,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  
 ---
 
 ![](volunteers.png)
