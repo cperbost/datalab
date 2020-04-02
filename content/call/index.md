@@ -1,5 +1,5 @@
 ---
-title: "Open call for proposals"
+title: "Call for proposals"
 draft: false
 ---
 ![alternative text for search engines](innovation.jpg)
