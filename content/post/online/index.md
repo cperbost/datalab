@@ -51,4 +51,4 @@ Apply for one or more of the projects below, we're waiting for you!
 
 * Credit or Counterparty risk and impacts in AFD intervention regions. 
 
-[![Contact us](button.png)]()
+[![Contact us](apply.png)]()
