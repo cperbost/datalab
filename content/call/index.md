@@ -5,7 +5,7 @@ draft: false
 ![alternative text for search engines](innovation.jpg)
 ![alternative text for search engines](cocons.png)
 
-At Datalab, our ambition is to be an accelerator of innovation in emerging technologies.  
+At the Datalab, our ambition is to be an accelerator of innovation in emerging technologies.  
 
 This ambition is manifold:  
 
